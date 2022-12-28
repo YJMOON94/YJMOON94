@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SASS-#c83cc8?style=flat&logo=SASS&logoColor=white"/>
+<img src="https://img.shields.io/badge/sass-#c83cc8?style=flat&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-#3C467D?style=flat&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-#00CDFF?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue-#60BD89?style=flat&logo=Vue&logoColor=white"/>
