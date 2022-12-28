@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 ### 안녕하세요 프론트앤드 웹 퍼블리셔 지원자 양재문입니다 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+프론트앤드+지원자+양재문입니다;)](https://git.io/typing-svg)
-
 <h3>🌱 MY SKILLS</h3>
 <div>
 <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
