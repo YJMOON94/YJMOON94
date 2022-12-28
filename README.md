@@ -36,7 +36,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
-
+<h3>:beer: OS</h3>
+<div>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apple-000000?style=flat&logo=Apple&logoColor=white"/>
+</div>
 <h3>⚡ github state</h3>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=YJMOON94&show_icons=true">
