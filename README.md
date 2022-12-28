@@ -1,5 +1,5 @@
 ### Hi there 👋
-<code>
+<section>
 <h3>🌱MY SKILLS</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
@@ -19,7 +19,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YJMOON94&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=YJMOON94&show_icons=true">
 </div>
-</code>
+</section>
 
 <!--
 **YJMOON94/YJMOON94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
