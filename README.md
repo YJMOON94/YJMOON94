@@ -1,6 +1,6 @@
 ### Hi there 👋
 <section>
-<h3>🌱MY SKILLS</h3>
+<h3>🌱 MY SKILLS</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=white"/>
@@ -14,8 +14,8 @@
 <img src="https://img.shields.io/badge/PHP-4169E1?style=flat&logo=PHP&logoColor=white"/>
 <img src="https://img.shields.io/badge/mySQL-FF82FF?style=flat&logo=mySQL&logoColor=white"/>
 </div>
-<div>
-<h3></h3>
+<div display="flex">
+<h3>⚡ github state</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YJMOON94&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=YJMOON94&show_icons=true">
 </div>
