@@ -1,4 +1,6 @@
 ### Hi there 👋
+<section>
+<h2>🌱MY SKILLS</h2>
 <div aling="center">
 <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=white"/>
@@ -12,6 +14,7 @@
 <img src="https://img.shields.io/badge/PHP-4169E1?style=flat&logo=PHP&logoColor=white"/>
 <img src="https://img.shields.io/badge/mySQL-FF82FF?style=flat&logo=mySQL&logoColor=white"/>
 </div>
+</section>
 
 <!--
 **YJMOON94/YJMOON94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
