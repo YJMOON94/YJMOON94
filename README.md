@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PHP-4169E1?style=flat&logo=PHP&logoColor=white"/>
 <img src="https://img.shields.io/badge/mySQL-FF82FF?style=flat&logo=mySQL&logoColor=white"/>
 </div>
-<h3>🌱 Tools</h3>
+<h3>:ram: Tools</h3>
 <div>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
