@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ### 안녕하세요 프론트앤드 웹 퍼블리셔 지원자 양재문입니다 👋
-<section>
+--
+
 <h3>🌱 MY SKILLS</h3>
 <div>
 <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
@@ -29,9 +30,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PHP-4169E1?style=flat&logo=PHP&logoColor=white"/>
 <img src="https://img.shields.io/badge/mySQL-FF82FF?style=flat&logo=mySQL&logoColor=white"/>
 </div>
-<div display="flex">
+
+--------
 <h3>⚡ github state</h3>
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=YJMOON94&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YJMOON94&layout=compact">
 </div>
-</section>
+
