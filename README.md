@@ -16,8 +16,8 @@
 </div>
 <div display="flex">
 <h3>⚡ github state</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YJMOON94&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=YJMOON94&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YJMOON94&layout=compact">
 </div>
 </section>
 
