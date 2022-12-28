@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h3>🌱 Studying</h3>
 <div>
 <img src="https://img.shields.io/badge/Typescript-blue?style=flat&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white&color=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
 </div>
