@@ -1,4 +1,5 @@
 ### Hi there 👋
+<div aling="center">
 <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3&logoColor=white"/>
@@ -10,7 +11,7 @@
 <img src="https://img.shields.io/badge/Wordpress-787878?style=flat&logo=Wordpress&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-4169E1?style=flat&logo=PHP&logoColor=white"/>
 <img src="https://img.shields.io/badge/mySQL-FF82FF?style=flat&logo=mySQL&logoColor=white"/>
-
+</div>
 
 <!--
 **YJMOON94/YJMOON94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
