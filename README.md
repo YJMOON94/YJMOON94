@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
 </div>
+<h3>🌱 Reading</h3>
+<div>
+  <p>Modern Javascript Deep Dive</p>
+</div>
 <h3>:ram: Tools</h3>
 <div>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
