@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <h3>:beer: OS</h3>
 <div>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apple-000000?style=flat&logo=Apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mac-000000?style=flat&logo=Apple&logoColor=white"/>
 </div>
 <h3>⚡ github state</h3>
 <div>
