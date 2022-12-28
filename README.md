@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
 </div>
-<h3>🌱 Reading</h3>
+<h3>:book: Reading</h3>
 <div>
   <p>Modern Javascript Deep Dive</p>
 </div>
