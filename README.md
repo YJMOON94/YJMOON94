@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### 안녕하세요 프론트앤드 웹 퍼블리셔 지원자 양재문입니다 👋
 
-<h3>🌱 MY SKILLS</h3>
+<h3>🌱 Languages</h3>
 <div>
 <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=white"/>
@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PHP-4169E1?style=flat&logo=PHP&logoColor=white"/>
 <img src="https://img.shields.io/badge/mySQL-FF82FF?style=flat&logo=mySQL&logoColor=white"/>
 </div>
-
+<h3>🌱 Tools</h3>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 --------
 <h3>⚡ github state</h3>
 <div>
