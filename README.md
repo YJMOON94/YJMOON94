@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 <h3>⚡ github state</h3>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=YJMOON94&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YJMOON94&layout=compact&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YJMOON94&layout=compact&theme=cobalt">
 </div>
 
