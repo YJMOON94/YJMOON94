@@ -3,10 +3,10 @@
 <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-#CC6699?style=flat&logo=Sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-#3C467D?style=flat&logo=jQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-#0769AD?style=flat&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue-#60BD89?style=flat&logo=Vue&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-#46649B?style=flat&logo=Bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-#4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-#7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wordpress-#787878?style=flat&logo=Wordpress&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-#4169E1?style=flat&logo=PHP&logoColor=white"/>
 <img src="https://img.shields.io/badge/mySQL-#FF82FF?style=flat&logo=mySQL&logoColor=white"/>
