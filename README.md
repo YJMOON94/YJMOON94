@@ -1,7 +1,7 @@
 ### Hi there 👋
 <code>
 <h3>🌱MY SKILLS</h3>
-<div aling="center">
+<div align="center">
 <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3&logoColor=white"/>
