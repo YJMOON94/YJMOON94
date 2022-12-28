@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
 <!--
 **YJMOON94/YJMOON94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
