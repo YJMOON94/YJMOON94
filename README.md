@@ -1,6 +1,6 @@
 ### Hi there 👋
 <section>
-<h2>🌱MY SKILLS</h2>
+<p style="font-size:20px">🌱MY SKILLS</p>
 <div aling="center">
 <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=white"/>
