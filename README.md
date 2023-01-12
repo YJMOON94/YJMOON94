@@ -49,9 +49,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mac-000000?style=flat&logo=Apple&logoColor=white"/>
 </div>
-<h3>:headphones: github state</h3>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=YJMOON94&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YJMOON94&layout=compact&theme=tokyonight">
-</div>
 
