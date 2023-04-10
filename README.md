@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/styledcomponent-blue?style=flat&logo=styledcomponent&logoColor=white"/>
-</div>
-<h3>🌱 Studying</h3>
-<div>
 <img src="https://img.shields.io/badge/Typescript-blue?style=flat&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
