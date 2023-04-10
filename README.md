@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00C3FF&width=435&lines=%F0%9F%98%84Thanks+for+visiting+my+github)](https://git.io/typing-svg)
 
-### 성장하는 프론트엔드 개발자 양재문 
+### 오늘보다 한발짝 더 꾸준하게 성장하는 프론트엔드 개발자 양재문입니다 🌱
 
 <h3>:ghost: Languages</h3>
 <div>
