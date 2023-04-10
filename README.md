@@ -22,16 +22,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wordpress-787878?style=flat&logo=Wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-4169E1?style=flat&logo=PHP&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled-component-blue?style=flat&logo=styled-component&logoColor=white"/>
 </div>
 <h3>🌱 Studying</h3>
 <div>
 <img src="https://img.shields.io/badge/Typescript-blue?style=flat&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
 </div>
 <h3>:book: Reading</h3>
