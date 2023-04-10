@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled-component-blue?style=flat&logo=styled-component&logoColor=white"/>
+<img src="https://img.shields.io/badge/styledcomponent-blue?style=flat&logo=styledcomponent&logoColor=white"/>
 </div>
 <h3>🌱 Studying</h3>
 <div>
